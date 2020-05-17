@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MessageDemo</string>
+    <string name="button">send</string>
+    <string name="message">Type a message</string>
+    <string name="messageReceived">Message Received</string>
+    <string name="replyButton">Reply</string>
+    <string name="replyReceived">Reply Received</string>
+    <string name="messageReply">Enter your reply</string>
+</resources>
